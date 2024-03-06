@@ -1,0 +1,62 @@
+2023-02-17 00:57:36.743509 CST | [60800_2023_02_17_00_57_04_0000--s-0] Epoch 0 finished
+----------------------------------  ----------------
+replay_buffer/size                  999000
+trainer/QF1 Loss                        17.6272
+trainer/QF2 Loss                        17.5848
+trainer/Num Q Updates                    0
+trainer/Num Policy Updates               0
+trainer/Policy Loss                      0.230238
+trainer/Q1 Predictions Mean             -0.007882
+trainer/Q1 Predictions Std               0.00435635
+trainer/Q1 Predictions Max               0.000318445
+trainer/Q1 Predictions Min              -0.0259937
+trainer/Q2 Predictions Mean             -0.000897815
+trainer/Q2 Predictions Std               0.00445526
+trainer/Q2 Predictions Max               0.0107129
+trainer/Q2 Predictions Min              -0.00960088
+trainer/Q Targets Mean                   3.82764
+trainer/Q Targets Std                    1.70809
+trainer/Q Targets Max                    7.225
+trainer/Q Targets Min                   -0.783125
+trainer/MMD Loss Mean                    0.280238
+trainer/MMD Loss Std                     0.0764826
+trainer/MMD Loss Max                     0.49003
+trainer/MMD Loss Min                     0.0915377
+trainer/Action Divergence Mean           4.08562
+trainer/Action Divergence Std            1.89809
+trainer/Action Divergence Max           11.6141
+trainer/Action Divergence Min            0.274279
+trainer/Raw Action Divergence Mean       8.8676
+trainer/Raw Action Divergence Std        5.09081
+trainer/Raw Action Divergence Max       34.8014
+trainer/Raw Action Divergence Min        0.543685
+trainer/Alpha                            1.001
+exploration/num steps total              0
+exploration/num paths total              0
+evaluation/num steps total            5000
+evaluation/num paths total               5
+evaluation/path length Mean           1000
+evaluation/path length Std               0
+evaluation/path length Max            1000
+evaluation/path length Min            1000
+evaluation/Rewards Mean                 -0.398989
+evaluation/Rewards Std                   0.681546
+evaluation/Rewards Max                   1.84006
+evaluation/Rewards Min                  -2.99271
+evaluation/Returns Mean               -398.989
+evaluation/Returns Std                  55.6583
+evaluation/Returns Max                -328.63
+evaluation/Returns Min                -458.222
+evaluation/Actions Mean                 -0.00565325
+evaluation/Actions Std                   0.719867
+evaluation/Actions Max                   0.999399
+evaluation/Actions Min                  -0.999437
+evaluation/Num Paths                     5
+evaluation/Average Returns            -398.989
+time/evaluation sampling (s)             6.68958
+time/logging (s)                         0.00838412
+time/training (s)                       20.0286
+time/epoch (s)                          26.7266
+time/total (s)                          32.7297
+Epoch                                    0
+----------------------------------  ----------------
